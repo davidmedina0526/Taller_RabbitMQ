@@ -1,4 +1,4 @@
-### Taller sobre RabbitMQ
+# Taller sobre RabbitMQ
 
 ### Trabajado por: David Medina, Andrea Sosa, Samuel Rodríguez y Juan Gómez
 
